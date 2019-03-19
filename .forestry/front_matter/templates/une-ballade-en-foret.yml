@@ -1,4 +1,6 @@
 ---
 label: Une ballade en forêt
-hide_body: true
-fields: []
+hide_body: false
+fields:
+- type: text
+  default: First page
