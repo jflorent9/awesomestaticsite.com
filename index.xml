@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Une ballade en forêt </title>
+      <link>https://example.org/post/une-ballade-en-for%C3%AAt/</link>
+      <pubDate>Mon, 18 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/une-ballade-en-for%C3%AAt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>mon premier blog</title>
       <link>https://example.org/post/mon-premier-blog/</link>
       <pubDate>Mon, 18 Mar 2019 23:00:00 +0000</pubDate>
