@@ -6,9 +6,9 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: mon premier blog
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: 2019-03-18 23:00:00 +0000
