@@ -12,3 +12,5 @@ fields:
   type: datetime
   hidden: false
   default: 2019-03-18 23:00:00 +0000
+pages:
+- content/post/mon-premier-blog.md
